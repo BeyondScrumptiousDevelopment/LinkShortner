@@ -94,3 +94,9 @@ a i:hover{
     font-size: 20px;
     font-weight: bold;
 }
+
+.footer {
+    text-align: center;
+    font-size: 12px;
+    letter-spacing: 2px;   
+    margin: 0;
